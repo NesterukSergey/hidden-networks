@@ -7,7 +7,7 @@ In this repo I provide some demos of finding a subnetwork in randomly weighted n
 * In [Sparsifying example](https://github.com/NesterukSergey/hidden-networks/blob/master/demos/sparsifying.ipynb) it's shown how to prune a network with edge-popup algorithm to achive actual acceleration in evaluation performance.
 
 
-All of the added scripts are in folder (https://github.com/NesterukSergey/hidden-networks/blob/master/demos) and can be executed via Google Colab. For some GPU runtime is recomended.
+All of the added scripts are in [folder](https://github.com/NesterukSergey/hidden-networks/blob/master/demos) and can be executed via Google Colab. For some GPU runtime is recomended.
 
 
 Information from the original repo provided below. 
